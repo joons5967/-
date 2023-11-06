@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+li {
+    list-style: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.bg-check {
+    background-color: gray;
+}
+
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.jcb {
+    justify-content: space-between;
+}
+
+.aic {
+    align-items: center;
+}
+
+.ofh {
+    overflow: hidden;
+}
+
+.h-0 {
+    height: 0;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.swiper-wrapper{
+    width: 100000px;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.w-100{
+    width: 100%;
+}
+.w1200{
+    width: 1200px;
+}
