@@ -78,3 +78,11 @@ a:hover {
 .w1200{
     width: 1200px;
 }
+.swiper-slide{
+    opacity: 0;
+    transition: 0.5s;
+}
+.on.swiper-slide{
+    opacity: 1;
+    z-index: 101000;
+}
